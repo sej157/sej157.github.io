@@ -1,4 +1,14 @@
 /* CUSTOM CSS */
 body{
-	background-color:white;
+	background-color:floralwhite;
 }
+
+
+
+ .tiles article.style1 > .image:before{
+ 	background-color: forestgreen;
+ }
+
+.tiles article.style4 > .image:before{
+background-color: mediumturquoise;
+ }
